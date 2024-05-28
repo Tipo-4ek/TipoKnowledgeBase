@@ -1,0 +1,36 @@
+nav.sidebar>sidebar-dark {
+    width: 25rem !important;
+}
+
+.list-group.list-group-root > .list-group > .nest-1 {
+    padding-left: 10px !important;
+}
+
+.list-group.list-group-root > .list-group > .nest-2 {
+    padding-left: 15px !important;
+}
+
+.list-group.list-group-root > .list-group > .nest-3 {
+    padding-left: 20px !important;
+}
+
+.list-group.list-group-root > .list-group > .nest-4 {
+    padding-left: 25px !important;
+}
+
+.list-group-item:last-child > .child-nest-1 {
+    padding-left: 30px !important;
+}
+
+.list-group-item:last-child > .child-nest-2 {
+    padding-left: 35px !important;
+}
+
+.list-group-item:last-child > .child-nest-3 {
+    padding-left: 40px !important;
+}
+
+.list-group-item:last-child > .child-nest-4 {
+    padding-left: 45px !important;
+}
+
